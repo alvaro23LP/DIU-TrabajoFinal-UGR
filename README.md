@@ -1,18 +1,23 @@
 # TrabajoFinal_DIU
-PARTE I: MI EXPERIENCIA UX 
+# PARTE I: MI EXPERIENCIA UX 
 
 ## Introducción
 En esta primera parte del trabajo final, voy a tratar sobre mi experiencia en el diseño de interfaces de usuario (IU), experiencia de usuario (UX) y usabilidad, y los conocimientos adquiridos gracias a la asignatura de Diseño de Interfaces de Usuario. 
 Durante el transcurso de la asignatura he realizado diversos ejercicios y actividades, por lo cuales, he adquirido conocimientos y me he puesto en puntos de vista que antes no habría visto sobre las interfaces de usuario. Tales como: la relaciones entre las personas y las máquinas/ordenadores, para comprender y resolver sus necesidades y dificultades; la creación, diseño y evaluación de interfaces y/o prototipos, con metodologías, técnicas y estrategias de diseño. Además, del diseño visual para interfaces tanto funcionales como estéticamente agradables, y usabilidad, con formas de medirla y mejorarla, destacando la accesibilidad como un punto importante.
 A continuación, detallo mis aportaciones y experiencias, destacando su calidad y relevancia, mostrando cómo he aplicado los conceptos teóricos y metodologías prácticas que han enriquecido mi formación y me han preparado para enfrentar desafíos reales en el diseño de interfaces.
-Aportaciones en el Contexto de Ejercicios y Actividades de Clase
-###Estudio Etnográfico 
+
+## Aportaciones en el Contexto de Ejercicios y Actividades de Clase
+
+### Estudio Etnográfico 
 Realizamos un pequeño estudio etnográfico, mediante el uso de una plantilla. Esta actividad, ayuda a comprender el contexto de uso, identificar problemas de usabilidad y proponer soluciones basadas en los principios estudiados en clase.
 Te ayuda a observar y entender cómo los usuarios interactúan con los productos en casos reales, a ver los conflictos de interacción de una forma más analítica y detallada, pudiendo sacar conclusiones objetivas, detectando, incluso, problemas que los usuarios pueden no mencionar explícitamente cuando se les pregunta.
-###Moodboard
+
+### Moodboard
 Realizamos un moodboard sobre un proyecto imaginario, como una primera aproximación al diseño de una aplicación. Esta actividad, nos ayuda a definir y entender los puntos más importantes de la identidad visual de una aplicación, es una guía para el diseño inicial de la app en su conjunto.
+
 ###Accesibilidad
 Realizamos un documento realizando una evaluación sobre la accesibilidad de una web. Esta actividad nos aporta un entendimiento profundo sobre la importancia de la accesibilidad web, tanto para personas con discapacidad como sin esta. Nos ayuda a identificar los problemas, mejorando nuestro punto de vista, para que nuestros futuros diseños tengan en cuenta estos requisitos de accesibilidad.
+
 ### Desarrollo Página Web creativa
 Realizamos, mediante el uso de Figma, un presentación con efectos de animación. El objetivo de la actividad es aprender a usar Figma para crear efectos de animación en diseños web, inspirándose en tendencias actuales y personalizando nuestros proyectos para reflejar creatividad y funcionalidad.
 
