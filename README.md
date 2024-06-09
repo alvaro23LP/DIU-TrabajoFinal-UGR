@@ -1,5 +1,5 @@
 # Trabajo final DIU 2023/24
-#Portfolio UX y resolución de un supuesto práctico
+# Portfolio UX y resolución de un supuesto práctico
 AUTOR: ÁLVARO LÓPEZ VERGARA
 # PARTE I: MI EXPERIENCIA UX 
 
@@ -17,7 +17,7 @@ Te ayuda a observar y entender cómo los usuarios interactúan con los productos
 ### Moodboard
 Realizamos un moodboard sobre un proyecto imaginario, como una primera aproximación al diseño de una aplicación. Esta actividad, nos ayuda a definir y entender los puntos más importantes de la identidad visual de una aplicación, es una guía para el diseño inicial de la app en su conjunto.
 
-###Accesibilidad
+### Accesibilidad
 Realizamos un documento realizando una evaluación sobre la accesibilidad de una web. Esta actividad nos aporta un entendimiento profundo sobre la importancia de la accesibilidad web, tanto para personas con discapacidad como sin esta. Nos ayuda a identificar los problemas, mejorando nuestro punto de vista, para que nuestros futuros diseños tengan en cuenta estos requisitos de accesibilidad.
 
 ### Desarrollo Página Web creativa
