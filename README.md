@@ -1,4 +1,6 @@
-# TrabajoFinal_DIU
+# Trabajo final DIU 2023/24
+#Portfolio UX y resolución de un supuesto práctico
+AUTOR: ÁLVARO LÓPEZ VERGARA
 # PARTE I: MI EXPERIENCIA UX 
 
 ## Introducción
