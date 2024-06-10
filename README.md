@@ -72,6 +72,7 @@ En esta segunda parte del trabajo final, vamos a realizar una evaluación de la 
 
 #### Web del Centro de Investigación a analizar:
 Centro de Investigación Biomédica (CIBM) de la UGR - https://cibm.ugr.es/
+![Portada del CIBM](cibmPortada.png)
 
 ## Análisis de la Página del CIBM
 ### Análisis del Diseño y Usabilidad
@@ -94,6 +95,8 @@ La paleta de colores es adecuada, dando un tono algo sobrio y profesional, sin e
 La tipografía es correcta y efectiva con la identidad corporativa, pero los tamaños de letra son algo pequeños en algunas partes de la página, y esto no es bueno en términos de accesibilidad.
 
 Hablando precisamente de la accesibilidad, lo único que nos encontramos es una pequeña referencia a accesibilidad en el pie de página, que nos lleva a una ventana en la se solo se nos notifica de que no se cumple con WCAG 2.1.  
+![Accesibilidad del CIBM](accesibilidad.png)
+
 Esto es un gran punto negativo, pues el carecer de distintas opciones de accesibilidad, tanto para personas discapacitadas, como personas que, aunque no sean, tengan dificultades tecnológicas, presenta barreras para consultar y acceder a la información y funcionalidades de esta página web.
 
 ### Propuestas de mejora
@@ -127,3 +130,4 @@ Aunque Patricia puede encontrar información general y actualizada sobre el CIBM
 Mejorar la intuitividad del menú de navegación, proporcionar información más detallada y específica, y facilitar el acceso directo a los datos de contacto y publicaciones, pueden ser mejoras cruciales para optimizar la experiencia de usuarios como Patricia, y mejorar la experiencia general de la web.
 
 
+![Portada del IBIS](ibisPortada.png)
