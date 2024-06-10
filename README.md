@@ -26,27 +26,27 @@ Realizamos, mediante el uso de Figma, un presentación con efectos de animación
 ## Aportaciones Destacables en Contexto de Prácticas
 El proceso y desarrollo de las prácticas se ha dividido en cinco pasos, donde he ido aplicando los conocimientos vistos en clase de forma más práctica: 
 
-> Investigación UX: Se ha realizado un análisis de usuarios, competidores, hemos usado técnicas de revisión de usabilidad para unas páginas propuestas y un mapa de empatía para comprender mejor las necesidades, pensamientos y sentimientos de los usuarios en su propia experiencia.
+- Investigación UX: Se ha realizado un análisis de usuarios, competidores, hemos usado técnicas de revisión de usabilidad para unas páginas propuestas y un mapa de empatía para comprender mejor las necesidades, pensamientos y sentimientos de los usuarios en su propia experiencia.
 
-> Diseño UX: Se ha definido la propuesta de valor, realizado un análisis de tareas, desarrollado la arquitectura de la información, creado prototipos de baja y alta fidelidad, y definido las pautas de diseño.
+- Diseño UX: Se ha definido la propuesta de valor, realizado un análisis de tareas, desarrollado la arquitectura de la información, creado prototipos de baja y alta fidelidad, y definido las pautas de diseño.
 
-> Moodboard y Landing Page: Aunque esta parte también pertenecería al diseño, la he separado por que considero que es ya parte de la aplicación del desarrollo anterior. Se ha diseñado un moodboard para definir la identidad visual de la aplicación y una landing page para presentar la propuesta de valor.
+- Moodboard y Landing Page: Aunque esta parte también pertenecería al diseño, la he separado por que considero que es ya parte de la aplicación del desarrollo anterior. Se ha diseñado un moodboard para definir la identidad visual de la aplicación y una landing page para presentar la propuesta de valor.
 
-> Patrones de diseño y layout HI-FI: Se han utilizado los patrones de diseño de Material M3 de Google para garantizar una experiencia de usuario intuitiva y estética, aplicándolos en el diseño final realizado un layout HI-FI en Figma.
+- Patrones de diseño y layout HI-FI: Se han utilizado los patrones de diseño de Material M3 de Google para garantizar una experiencia de usuario intuitiva y estética, aplicándolos en el diseño final realizado un layout HI-FI en Figma.
 
-> Evaluación: Se ha realizado un test A/B y un cuestionario SUS para evaluar la usabilidad de las aplicaciones, y se ha identificado áreas de mejora.
+- Evaluación: Se ha realizado un test A/B y un cuestionario SUS para evaluar la usabilidad de las aplicaciones, y se ha identificado áreas de mejora.
 
 ### Aportes de cada actividad:
 
-> Investigación UX: Estas actividades han sido fundamentales para comprender las necesidades y expectativas de los usuarios, pensando en abarcar tantos perfiles como sea posible, y para posteriormente definir la propuesta de valor de la aplicación a desarrollar, en base a la experiencia obtenida con la evaluación previa.
+- Investigación UX: Estas actividades han sido fundamentales para comprender las necesidades y expectativas de los usuarios, pensando en abarcar tantos perfiles como sea posible, y para posteriormente definir la propuesta de valor de la aplicación a desarrollar, en base a la experiencia obtenida con la evaluación previa.
 
-> Diseño UX: Estás actividades nos han permitido desarrollar una primera aproximación a la aplicación final, definiendo objetivos, necesidades…; analizando las tareas más importantes, organizando la lógica de la aplicación y diseñando un primer prototipo LO-FI.
+- Diseño UX: Estás actividades nos han permitido desarrollar una primera aproximación a la aplicación final, definiendo objetivos, necesidades…; analizando las tareas más importantes, organizando la lógica de la aplicación y diseñando un primer prototipo LO-FI.
 
-> Moodboard y Landing Page: Estos elementos han sido importantes para comunicar la identidad visual de la aplicación y su propuesta de valor. Representamos los logos, tipografías, paleta de colores, eslogan…, todo con sus motivos de por qué su elección. En concreto, el moodboard sirve como guía para el diseño de la aplicación en su conjunto.
+- Moodboard y Landing Page: Estos elementos han sido importantes para comunicar la identidad visual de la aplicación y su propuesta de valor. Representamos los logos, tipografías, paleta de colores, eslogan…, todo con sus motivos de por qué su elección. En concreto, el moodboard sirve como guía para el diseño de la aplicación en su conjunto.
 
-> Patrones de diseño y layout HI-FI: El uso de los patrones de diseño de Material M3 nos ha ayudado a garantizar una experiencia de usuario consistente y de alta calidad. Finalmente en el diseño HI-FI representamos todo lo expuesto en el diseño UX y nuestra propuesta de valor, siguiendo nuestros principios de identidad visual y estilo; es una representación de la interfaz final de la aplicación, en la que hemos aplicado todo lo anterior.
+- Patrones de diseño y layout HI-FI: El uso de los patrones de diseño de Material M3 nos ha ayudado a garantizar una experiencia de usuario consistente y de alta calidad. Finalmente en el diseño HI-FI representamos todo lo expuesto en el diseño UX y nuestra propuesta de valor, siguiendo nuestros principios de identidad visual y estilo; es una representación de la interfaz final de la aplicación, en la que hemos aplicado todo lo anterior.
 
-> Evaluación: Esta actividad nos ha permitido evaluar cuantitativamente el diseño y usabilidad de una aplicación mediante cuestionarios SUS y un A/B testing. Con estas técnicas, en definitiva podemos evaluar, aunque de forma inevitablemente subjetiva, de forma numérica, dando un valor concreto a la usabilidad. Además de identificar sus fortalezas y debilidades en UX y usabilidad
+- Evaluación: Esta actividad nos ha permitido evaluar cuantitativamente el diseño y usabilidad de una aplicación mediante cuestionarios SUS y un A/B testing. Con estas técnicas, en definitiva podemos evaluar, aunque de forma inevitablemente subjetiva, de forma numérica, dando un valor concreto a la usabilidad. Además de identificar sus fortalezas y debilidades en UX y usabilidad
 
 Destacar que en todo este proceso se ha empleado el uso de la herramienta Figma, con la he ido familiarizando y en la que he realizado gran parte de las tareas anteriores.
 
