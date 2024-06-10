@@ -63,3 +63,65 @@ Tanto por las tareas realizadas en prácticas, como la teoría y ejercicios de l
 El haber realizado un caso propio, permitiendome aplicar conceptos teóricos y metodologías prácticas en un contexto “real”, con su propio diseño paso a paso, prototipos, evaluación, entre otras cosas; me han dado una nueva perspectiva a la hora de realizar y/o evaluar interfaces de usuario, pensando más en los usuarios, en un buen diseño basado en las necesidades concretas de cada situación y usuarios, en los principios de usabilidad, en la accesibilidad… 
 
 En definitiva, aunque de manera bastante inicial, he aprendido a diseñar interfaces más inclusivas y funcionales, garantizando una experiencia de usuario óptima y satisfactoria. Esta experiencia integral me ha permitido desarrollar un enfoque más crítico y centrado en el usuario, lo que resulta indispensable para la creación de soluciones tecnológicas eficientes y accesibles; todo esto creo que queda reflejado y justificado tanto en las actividades realizadas, como en el resultado de las prácticas.
+
+
+# PARTE II: CASO DE ESTUDIO
+
+## Introducción
+En esta segunda parte del trabajo final, vamos a realizar una evaluación de la página web de un centro de investigación de la Universidad de Granada (Centro de Investigación Biomédica de la Universidad de Granada), mediante un análisis de usabilidad y experiencia del usuario; para posteriormente compararla con un centro de investigación similar de otra universidad (Instituto de Biomedicina de Sevilla (IBiS)). 
+
+#### Web del Centro de Investigación a analizar:
+Centro de Investigación Biomédica (CIBM) de la UGR - https://cibm.ugr.es/
+
+## Análisis de la Página del CIBM
+### Análisis del Diseño y Usabilidad
+Vamos a comentar la página web del Centro de Investigación Biomédica de la Universidad de Granada, en concreto, sobre algunos aspectos positivos y negativos, proponiendo áreas de mejora en cuanto al diseño y la usabilidad. 
+
+
+### Puntos positivos
+En cuanto a estructura y contenidos, la página presenta se destaca por ser simple y profesional, con un diseño visual coherente con la temática. Tiene una estructura de navegación clara y bien organizada, con secciones y menús bien definidos jerárquicamente, facilitando la búsqueda de información dentro de ella a los usuarios. 
+
+Además, mantiene la consistencia en el diseño a lo largo del sitio web y con otras páginas web de la Universidad de Granada, utilizando una estructura similar, variando simplemente en los contenidos concretos de cada web en específico. Esto da una sensación de identidad corporativa unificada y familiaridad, siendo muy gratificante a nivel de usuario, pues tiene la sensación de tener experiencia en la página si ya está familiarizado con otras de la misma institución.
+
+Destacar que la página está adaptada para diferentes tamaños de pantalla, garantizando una experiencia consistente tanto para móviles y como computadoras; y que contiene cierto dinamismo e interactividad añadida, como por ejemplo el carrusel en la página principal.
+
+### Puntos negativos
+Podemos señalar la poca información que se presenta en la página inicial, que aunque es bueno que no esté sobrecargada, como ocurre a veces en webs institucionales, esta presenta muy poco contenido tanto en el menú de navegación, como en el completo de la página principal. 
+También que el contenido no ocupa el ancho máximo en computadoras; este espacio podría aprovecharse para aumentar el tamaño de los contenidos y hacerlos más legibles y accesibles o para añadir esa información ausente.
+
+La paleta de colores es adecuada, dando un tono algo sobrio y profesional, sin embargo una mayor variedad en la paleta de colores, para mejorar la legibilidad y contraste de algunos elementos, puede ser de utilidad para la mayor visibilidad de los mismos. 
+
+La tipografía es correcta y efectiva con la identidad corporativa, pero los tamaños de letra son algo pequeños en algunas partes de la página, y esto no es bueno en términos de accesibilidad.
+
+Hablando precisamente de la accesibilidad, lo único que nos encontramos es una pequeña referencia a accesibilidad en el pie de página, que nos lleva a una ventana en la se solo se nos notifica de que no se cumple con WCAG 2.1.  
+Esto es un gran punto negativo, pues el carecer de distintas opciones de accesibilidad, tanto para personas discapacitadas, como personas que, aunque no sean, tengan dificultades tecnológicas, presenta barreras para consultar y acceder a la información y funcionalidades de esta página web.
+
+### Propuestas de mejora
+A continuación, se proponen unas posibles soluciones a los problemas vistos:
+Para la falta de información, podría introducirse información genérica sobre el centro de investigación a modo de introducción para nuevos usuarios. 
+
+Para el menú de navegación, hay varias posibilidades, una es la de incluir esta barra desplegable en la ya existente con los iconos de redes sociales, unificando los accesos en un único lugar; otra es la de incluir estos accesos en la pantalla inicial a modo de iconos destacados o similar. Esto mejoraría el acceso a estas zonas, siendo más intuitivo y accesible para todos los usuarios, evitando que estos no encuentren los que buscan cuando naveguen por la web.
+
+Para las bandas laterales sin información, los ejemplos propuestos anteriormente, o hacer que el contenido se ajuste a este ancho, viéndose con mayor tamaño y aumentando su legibilidad, o aprovechar este espacio para añadir esa información inicial faltante.
+
+El tema de los colores: podríamos mejorar el contraste de algunas zonas, añadiendo algo más de variedad, haciendo así algunos elementos más destacables y atractivos, para así, guiar al usuario por la página.
+Por otro lado, el uso de imágenes y/o iconos/figuras para destacar información clave con el mismo objetivo de facilitar la comprensión de la información y el contexto de la navegación.
+
+En cuanto al tamaño de la letra, debería de ser algo más grande en general, mejorando así la visibilidad y legibilidad para todo tipo de usuarios, en especial títulos, enlaces, y elementos clicables.
+
+Finalmente en cuanto a accesibilidad, hay mucho por mejorar: la inclusión de texto descriptivo en las imágenes, opciones de ajuste de contraste y color, también para el tamaño del texto, algo de retroalimentación visual para las acciones en la web, indicadores de foco para navegación por teclado, y algunas opciones más. 
+Aunque no sean obligatorias, si son de gran utilidad para algunas personas, e incluso necesarias; por tanto creo que se debería de mejorar este aspecto para garantizar que el sitio sea accesible para usuarios con discapacidades o necesidades especiales.
+
+### Análisis de la Experiencia de Usuario
+Tras el análisis anterior he querido realizar pruebas simulando experiencias reales en casos concretos, para ello voy a simular una experiencia de un usuario ficticio.
+Presentando la siguiente información sobre la persona:
+
+Y su journey map en la web del CIBM:
+
+Podemos concluir entonces que, el análisis de la experiencia de usuario de Patricia González en el sitio web del Centro de Investigación Biomédica de la UGR revela una serie de puntos de fricción que dificultan su navegación y búsqueda de información específica sobre oportunidades de colaboración en proyectos de sostenibilidad. 
+
+Aunque Patricia puede encontrar información general y actualizada sobre el CIBM, la estructura y organización del sitio web presentan desafíos en la localización de detalles específicos sobre líneas de investigación y contactos directos con el personal. La poca intuitividad del menú de navegación y la ausencia de información clara sobre algunos campos concretos, agravan la frustración del usuario. 
+
+Mejorar la intuitividad del menú de navegación, proporcionar información más detallada y específica, y facilitar el acceso directo a los datos de contacto y publicaciones, pueden ser mejoras cruciales para optimizar la experiencia de usuarios como Patricia, y mejorar la experiencia general de la web.
+
+
