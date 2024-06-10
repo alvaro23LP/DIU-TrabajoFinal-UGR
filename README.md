@@ -5,7 +5,9 @@ AUTOR: ÁLVARO LÓPEZ VERGARA
 
 ## Introducción
 En esta primera parte del trabajo final, voy a tratar sobre mi experiencia en el diseño de interfaces de usuario (IU), experiencia de usuario (UX) y usabilidad, y los conocimientos adquiridos gracias a la asignatura de Diseño de Interfaces de Usuario. 
+
 Durante el transcurso de la asignatura he realizado diversos ejercicios y actividades, por lo cuales, he adquirido conocimientos y me he puesto en puntos de vista que antes no habría visto sobre las interfaces de usuario. Tales como: la relaciones entre las personas y las máquinas/ordenadores, para comprender y resolver sus necesidades y dificultades; la creación, diseño y evaluación de interfaces y/o prototipos, con metodologías, técnicas y estrategias de diseño. Además, del diseño visual para interfaces tanto funcionales como estéticamente agradables, y usabilidad, con formas de medirla y mejorarla, destacando la accesibilidad como un punto importante.
+
 A continuación, detallo mis aportaciones y experiencias, destacando su calidad y relevancia, mostrando cómo he aplicado los conceptos teóricos y metodologías prácticas que han enriquecido mi formación y me han preparado para enfrentar desafíos reales en el diseño de interfaces.
 
 ## Aportaciones en el Contexto de Ejercicios y Actividades de Clase
