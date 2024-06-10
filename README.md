@@ -115,8 +115,10 @@ Aunque no sean obligatorias, si son de gran utilidad para algunas personas, e in
 ### Análisis de la Experiencia de Usuario
 Tras el análisis anterior he querido realizar pruebas simulando experiencias reales en casos concretos, para ello voy a simular una experiencia de un usuario ficticio.
 Presentando la siguiente información sobre la persona:
+![Perfil de usuario](Persona.png)
 
 Y su journey map en la web del CIBM:
+![JourneyMap](UserJourneyMap.png)
 
 Podemos concluir entonces que, el análisis de la experiencia de usuario de Patricia González en el sitio web del Centro de Investigación Biomédica de la UGR revela una serie de puntos de fricción que dificultan su navegación y búsqueda de información específica sobre oportunidades de colaboración en proyectos de sostenibilidad. 
 
