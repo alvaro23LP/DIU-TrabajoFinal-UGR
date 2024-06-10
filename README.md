@@ -133,7 +133,7 @@ Mejorar la intuitividad del menú de navegación, proporcionar información más
 
 ## Comparativa con la otro Centro de investigación similar
 Web del Centro de Investigación similar:
-Instituto de Biomedicina de Sevilla (IBiS): ![Web del IBiS](https://www.ibis-sevilla.es/es/) 
+Instituto de Biomedicina de Sevilla (IBiS): [Web del IBiS](https://www.ibis-sevilla.es/es/) 
 ![Portada del IBIS](ibisPortada.png) 
 
 Vamos ahora a comparar la página del centro de Investigación Biomédica de la UGR, con la del Instituto de Biomedicina de Sevilla, el cual también está enfocado a los mismos campos de investigación.
