@@ -118,7 +118,7 @@ Finalmente en cuanto a accesibilidad, hay mucho por mejorar: la inclusión de te
 Aunque no sean obligatorias, si son de gran utilidad para algunas personas, e incluso necesarias; por tanto creo que se debería de mejorar este aspecto para garantizar que el sitio sea accesible para usuarios con discapacidades o necesidades especiales.
 
 ### Análisis de la Experiencia de Usuario
-Tras el análisis anterior he querido realizar pruebas simulando experiencias reales en casos concretos, para ello voy a simular una experiencia de un usuario ficticio.
+Tras el análisis anterior, he querido realizar pruebas simulando una experiencia real en un caso concreto, para ello voy a simular la experiencia de un usuario ficticio, con el fin de obtener mas información sobre la usabilidad, desde otro punto de vista, y asi tambien, mostrar los problemas que pueden presentarse a cualquier persona en un caso real.
 Presentando la siguiente información sobre la persona:
 ![Perfil de usuario](Persona.png)
 
