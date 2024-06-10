@@ -73,7 +73,7 @@ En definitiva, aunque de manera bastante inicial, he aprendido a diseñar interf
 En esta segunda parte del trabajo final, vamos a realizar una evaluación de la página web de un centro de investigación de la Universidad de Granada (Centro de Investigación Biomédica de la Universidad de Granada), mediante un análisis de usabilidad y experiencia del usuario; para posteriormente compararla con un centro de investigación similar de otra universidad (Instituto de Biomedicina de Sevilla). 
 
 #### Web del Centro de Investigación a analizar:
-Centro de Investigación Biomédica (CIBM) de la UGR: ![Web del CIBM](https://cibm.ugr.es/) 
+Centro de Investigación Biomédica (CIBM) de la UGR: [Web del CIBM](https://cibm.ugr.es/) 
 ![Portada del CIBM](cibmPortada.png) 
 
 ## Análisis de la Página del CIBM
