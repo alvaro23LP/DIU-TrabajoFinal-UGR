@@ -129,5 +129,39 @@ Aunque Patricia puede encontrar información general y actualizada sobre el CIBM
 
 Mejorar la intuitividad del menú de navegación, proporcionar información más detallada y específica, y facilitar el acceso directo a los datos de contacto y publicaciones, pueden ser mejoras cruciales para optimizar la experiencia de usuarios como Patricia, y mejorar la experiencia general de la web.
 
+## Comparativa con la otro Centro de investigación similar
+Web del Centro de Investigación similar:
+Instituto de Biomedicina de Sevilla (IBiS) - https://www.ibis-sevilla.es/es/
+![Portada del IBIS](ibisPortada.png) 
 
-![Portada del IBIS](ibisPortada.png)
+Vamos ahora a comparar la página del centro de Investigación Biomédica de la UGR, con la del Instituto de Biomedicina de Sevilla, el cual también está enfocado a los mismos campos de investigación.
+Para ello vamos a repasar semejanzas y diferencias en el diseño, señalando cual es la mejor en ciertos aspectos y cuál debería mejorar en otros cuantos.
+
+### Similitudes
+Las dos páginas presentan estructuras similares con un menú de navegación al que acceder a todos los apartados y una página principal con noticias destacadas o accesos directos.
+
+Dentro de los distintos apartados, ambas mantienen una estructura y una consistencia claves para la sensación de unidad corporativa que quieren transmitir.
+La tipografía también es consistente siendo simple y profesional, manteniéndose en toda la navegación de la página; no obstante en ambas es de pequeño tamaño en alguna partes siendo complicado la lectura del texto, e incluso en ocasiones el contraste es bajo, haciendo que ciertos usuarios no puedan o se les dificulte la comprensión de los contenidos.
+
+Los dos diseños son responsive, se adaptan perfectamente a distintos tamaños de ventana e incluso a dispositivos móviles.
+
+Ambas páginas presentan diferentes carencias en cuanto a accesibilidad. La primera, la del CIBM de la UGR, presentaba escasa información al respecto, y nulas opciones de accesibilidad; pero es que el IBIS, no da siquiera información en su página sobre el tema,  siendo este un punto muy negativo.
+
+### Diferencias
+En cuanto a la navegación, la página del IBIS presenta un notable mejor menú de navegación, con el uso de iconos y ciertas animaciones, dando una sensación de dinamismo, y sirviendo de guía al usuario.
+La página de inicio además, también contiene una animación inicial en lugar de un carrusel, aportando a esa sensación de modernismo y siendo más visualmente atractiva. 
+
+Por otro parte, la web del CIBM, carece de animaciones visuales tanto en la página principal como en el menú, lo que conlleva a una experiencia de usuario menos dinámica y gratificante.
+
+En cuanto a la gama de colores, el IBIS presenta una mayor variedad, identificando cada sección del menú de navegación con uno distinto, y se apoya en imágenes para cada apartado de cada sección, haciéndolos más identificables que solo con texto plano.
+
+### Conclusión de la comparación
+Por los puntos anteriores podemos concluir, que la página del IBIS mejora en algunos aspectos a la del CIBM, sin embargo también tiene ciertos puntos a mejorar, como son la accesibilidad o la tipografía. Ambas páginas web son válidas, y plenamente funcionales en su contexto, cumpliendo con los objetivos que presentan de divulgación e información. Su usabilidad es buena y su diseño correcto.
+
+## Conclusiones y auto-evaluación 
+A modo de conclusión de este trabajo, pienso que he transmitido y aplicado mis conocimientos en los puntos anteriores, y creo que mi análisis y propuestas cumplen con los objetivos impuestos en la actividad., mejorando así, la estructura y diseño de la navegación, la legibilidad, el dinamismo y la accesibilidad para todo tipo de usuarios.
+
+He usado los principios teóricos de  IU, UX y usabilidad para analizar y proponer mejoras en ambos casos, y creo que he realizado un trabajo, indiscutiblemente superior, al que habría realizado antes de conocer todos los conceptos y habilidades vistos durante todo el curso.
+
+Añadir sobre *que hubiera sido interesante añadir a este caso de estudio*, decir que se podrían hacer análisis mucho más exhaustivos, desde un análisis de competitividad, una revisión mucho más específica de usabilidad…, y en especial, un test A/B el cual habría sido de gran utilidad en la comparación, dando valores numéricos, fácilmente comparables. Esto no lo he realizado por la magnitud de encuestas que habría que realizar para obtener unos resultados lo más verídicos y fiables posibles.
+
